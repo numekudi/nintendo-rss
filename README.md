@@ -1,4 +1,5 @@
 ## discordにRSS飛ばすやつ
+EventBridgeで30分おきに動かす
 
 ## envs
 ```
